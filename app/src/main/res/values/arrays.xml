@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="major">
+        <item>산업경영공학과</item>
+        <item>기계공학과</item>
+        <item>토목공학과</item>
+        <item>지적과</item>
+        <item>전기과</item>
+        <item>전자공학과</item>
+        <item>컴퓨터공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어콘텐츠과</item>
+        <item>인터넷응용보안공학과</item>
+        <item>드론정보공학과</item>
+        <item>경영과</item>
+        <item>세무회계과</item>
+        <item>부동산경영과</item>
+        <item>사회복지과</item>
+        <item>행정과</item>
+        <item>공공행정서비스상담과</item>
+        <item>글로벌비즈니스학부영어비즈니스전공</item>
+        <item>글로벌비즈니스학부항공서비스전공</item>
+        <item>글로벌비즈니스학부중국어비즈니스전공</item>
+        <item>글로벌비즈니스학부일본어비즈니스전공</item>
+        <item>문예창작과</item>
+        <item>유아교육학과</item>
+        <item>청소년교육복지과</item>
+        <item>패션텍스타일세라믹과</item>
+        <item>커뮤니케이션디자인과</item>
+        <item>공연예술학부 클래식공연예술전공</item>
+        <item>공연예술학부 실용음악전공</item>
+        <item>사회체육학과</item>
+        <item>공연예술학부 연극연상전공</item>
+        <item>뷰티매니지먼트과</item>
+        <item>보건의료정보과</item>
+        <item>드론공학과</item>
+        <item>엔터융합비즈니스전공</item>
+        <item>뷰티패션융합과</item>
+        <item>세무회계융합과</item>
+        <item>사회서비스상담복지과</item>
+        <item>문헌정보과</item>
+        <item>산업경영공학과(전공심화)</item>
+        <item>토목공학과(전공심화)</item>
+        <item>전기공학과(전공심화)</item>
+        <item>전자공학과(전공심화)</item>
+        <item>컴퓨터공학과(전공심화)</item>
+        <item>정보통신공학과(전공심화)</item>
+        <item>소프트웨어콘텐츠학과(전공심화)</item>
+        <item>경영학과(전공심화)</item>
+        <item>부동산경영학과(전공심화)</item>
+        <item>중국어비즈니스학과(전공심화)</item>
+        <item>문예창작학과(전공심화)</item>
+        <item>유아교육학과(전공심화)</item>
+        <item>청소년교육복지학과(전공심화)</item>
+        <item>산업디자인학과(전공심화)</item>
+        <item>패션텍스타일세라믹학과(전공심화)</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>사회체육학과(전공심화)</item>
+        <item>연극영상학과(전공심화)</item>
+        <item>지적학과(전공심화)</item>
+        <item>사회복지학과(전공심화)</item>
+        <item>인터넷응용보안공학과(전공심화)</item>
+    </string-array>
+    <string-array name="year">
+        <item>2016년도</item>
+        <item>2017년도</item>
+        <item>2018년도</item>
+        <item>2019년도</item>
+        <item>2020년도</item>
+        <item>2021년도</item>
+        <item>2022년도</item>
+        <item>2023년도</item>
+        <item>2024년도</item>
+        <item>2025년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>전공심화전공</item>
+    </string-array>
+
+    <string-array name="colleageArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+        <item>토목공학과(전공심화)</item>
+        <item>전기공학과(전공심화)</item>
+        <item>전자공학과(전공심화)</item>
+        <item>컴퓨터공학과(전공심화)</item>
+        <item>정보통신공학과(전공심화)</item>
+        <item>소프트웨어콘텐츠학과(전공심화)</item>
+        <item>경영학과(전공심화)</item>
+        <item>부동산경영학과(전공심화)</item>
+        <item>중국어비즈니스학과(전공심화)</item>
+        <item>문예창작학과(전공심화)</item>
+        <item>유아교육학과(전공심화)</item>
+        <item>청소년교육복지학과(전공심화)</item>
+        <item>산업디자인학과(전공심화)</item>
+        <item>패션텍스타일세라믹학과(전공심화)</item>
+        <item>커뮤니케이션디자인학과(전공심화)</item>
+        <item>사회체육학과(전공심화)</item>
+        <item>연극영상학과(전공심화)</item>
+        <item>지적학과(전공심화)</item>
+        <item>사회복지학과(전공심화)</item>
+        <item>인터넷응용보안공학과(전공심화)</item>
+    </string-array>
+    <string-array name="colleageRefinementMajor">
+        <item>교양필수</item>
+        <item>교양선택</item>
+    </string-array>
+    <string-array name="colleageMajor">
+        <item>산업경영공학과</item>
+        <item>기계공학과</item>
+        <item>토목공학과</item>
+        <item>지적과</item>
+        <item>전기과</item>
+        <item>전자공학과</item>
+        <item>컴퓨터공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어콘텐츠과</item>
+        <item>인터넷응용보안공학과</item>
+        <item>드론정보공학과</item>
+        <item>경영과</item>
+        <item>세무회계과</item>
+        <item>부동산경영과</item>
+        <item>사회복지과</item>
+        <item>행정과</item>
+        <item>공공행정서비스상담과</item>
+        <item>글로벌비즈니스학부영어비즈니스전공</item>
+        <item>글로벌비즈니스학부항공서비스전공</item>
+        <item>글로벌비즈니스학부중국어비즈니스전공</item>
+        <item>글로벌비즈니스학부일본어비즈니스전공</item>
+        <item>문예창작과</item>
+        <item>유아교육학과</item>
+        <item>청소년교육복지과</item>
+        <item>패션텍스타일세라믹과</item>
+        <item>커뮤니케이션디자인과</item>
+        <item>공연예술학부클래식공연예술전공</item>
+        <item>공연예술학부실용음악전공</item>
+        <item>사회체육학과</item>
+        <item>공연예술학부연극연상전공</item>
+        <item>뷰티매니지먼트과</item>
+        <item>보건의료정보과</item>
+        <item>드론공학과</item>
+        <item>엔터융합비즈니스전공</item>
+        <item>뷰티패션융합과</item>
+        <item>세무회계융합과</item>
+        <item>사회서비스상담복지과</item>
+        <item>문헌정보과</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>전체에서</item>
+        <item>우리과에서</item>
+        <item>남자 선호도</item>
+        <item>여자 선호도</item>
+        <item>전공 인기도</item>
+        <item>교양 인기도</item>
+    </string-array>
+</resources>
